@@ -1,0 +1,71 @@
+.kees1{
+    margin: 100px;
+    width: 260px;
+    border-radius: 50px;
+}    
+
+.kees2{
+  margin: 100px;
+  width: 200px;
+  border-radius: 50px;
+}
+
+.kees3{
+  border-radius: 50px;
+}
+.kees4{
+  border-radius: 50px;
+}
+
+
+
+body {
+    background-color: #f2f2f2;
+  }
+  header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+  }
+  
+  nav {
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  nav a:hover {
+    background-color: #333;
+    color: white;
+  }
+  div {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  h1, h2 {
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  p {
+    line-height: 1.5;
+    margin-left: 50px;
+    margin-right: 100px;
+  }
+    
+  footer {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+  }
